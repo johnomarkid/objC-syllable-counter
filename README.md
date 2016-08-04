@@ -13,7 +13,3 @@ There are two class methods, one to count the syllables in a words, and one to c
 `int syllable_count = [SyllableCounter SyllableCountForWord:@"happy"]`
 
 `int syllable_count = [SyllableCounter SyllableCountForWords:@"coding is fun"]`
-
-Credit
-------
-This is the objective-c port of the Ruby port created by [Mark Joslin](https://github.com/joslinm). The original script in php can be found [here](http://www.russellmcveigh.info/content/html/syllablecounter.php).
